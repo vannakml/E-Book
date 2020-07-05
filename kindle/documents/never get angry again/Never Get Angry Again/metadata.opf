@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1747</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7406387-90df-4335-b91e-f6ee7ada12aa</dc:identifier>
+        <dc:title>Never Get Angry Again: The Foolproof Way to Stay Calm and in Control in Any Conversation or Situation</dc:title>
+        <dc:creator opf:file-as="Dr. David J. Lieberman, Ph.d." opf:role="aut">Dr. David J. Lieberman, Ph.d.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.11.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-04T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A comprehensive, holistic look at the underlying emotional, physical, and spiritual causes of anger, and what the reader can do to gain perspective allowing them to never get angry again. "An essential instruction manual for anger management, but also a detailed work on how to get along with other people." —Library Journal (starred review)Never Get Angry Again is New York Times bestselling author David J. Lieberman’s comprehensive, holistic look at the underlying emotional, physical, and spiritual causes of anger, and what the reader can do to gain perspective, allowing them to never get angry again.Take a deep breath and count to ten. Meditate. Visualize your happy place. You’ve probably heard all of these anger management techniques and more from friends, family, and experts, but somehow they miss the mark when it comes to coping with the complex emotion of anger.Let’s face it: if anger-management techniques were effective, you wouldn’t be reading this book. These clumsy attempts to maintain calmness are usually futile and sometimes emotionally draining. The fact is, either something bothers us (causing anxiety, frustration, or anger), or it doesn’t. A state of calm is better accomplished by not becoming agitated in the first place. When we fight the urge to blow up or melt down, we fight against our own nature.Internationally bestselling author David J. Lieberman understands that a change in perspective is all that is needed to help keep from flying off the handle. In Never Get Angry Again, he illuminates the underlying emotional, spiritual, and physical components of anger, and gives the readers simple, practical tools to snuff out anger before it even occurs.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>St. Martin's Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Dr. David J. Lieberman, Ph.d.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2020-03-10T05:48:28.799000+00:00" name="calibre:timestamp"/>
+        <meta content="Never Get Angry Again: The Foolproof Way to Stay Calm and in Control in Any Conversation or Situation" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

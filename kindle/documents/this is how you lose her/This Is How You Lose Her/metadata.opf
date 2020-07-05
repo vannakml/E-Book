@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1907</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75356263-6f16-4a46-ad44-3095a1d59119</dc:identifier>
+        <dc:title>This Is How You Lose Her</dc:title>
+        <dc:creator opf:file-as="Diaz, Junot" opf:role="aut">Junot Diaz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-27T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Junot Diaz's new collection, This Is How You Lose Her, is a collection of linked narratives about love - passionate love, illicit love, dying love, maternal love - told through the lives of New Jersey Dominicans, as they struggle to find a point where their two worlds meet. In prose that is endlessly energetic and inventive, tender and funny, it lays bare the infinite longing and inevitable weaknesses of the human heart. Most of all, these stories remind us that the habit of passion always triumphs over experience and that 'love, when it hits us for real, has a half-life of forever.'&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Faber &amp; Faber</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Junot Diaz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2020-04-04T07:04:05.325000+00:00" name="calibre:timestamp"/>
+        <meta content="This Is How You Lose Her" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

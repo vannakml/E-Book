@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1930</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">388a3b09-5e6a-4139-98c4-d67c35e4cea8</dc:identifier>
+        <dc:title>14,000 Things to be Happy About</dc:title>
+        <dc:creator opf:file-as="Kipfer, Barbara Ann" opf:role="aut">Barbara Ann Kipfer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-14T17:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Something to be happy about: This mesmerizing bestseller is revised and updated. Originally published 25 years ago (happy anniversary!) from a list that Barbara Ann Kipfer started making as a child, it's the book that marries obsession with happiness. And it now has 2,000 fresh and more current reasons to be happy:&lt;br /&gt; &lt;br /&gt;Rabbit tracks in the snow. &lt;br /&gt;Kiteboarding and kitesurfing. &lt;br /&gt;Caramel gelato.&lt;br /&gt;Scoring super-high on a Scrabble turn. &lt;br /&gt;Babies burping.&lt;br /&gt; Summer storms. &lt;br /&gt;White cupcakes with multicolored sprinkles. &lt;br /&gt;Big red barns. &lt;br /&gt;20 minutes all to yourself.&lt;br /&gt; &lt;br /&gt;No opinions, no explanations, no asides, no footnotes, editorializing, or proselytizing. Just the simple premise of a list of things that make us smile. With its chunky shape, striking black-and-white cover, and 100 whimsical illustrations by Pierre Le-Tan, the new 14,000 Things is an irresistible catalog of good thoughts completely updated to reflect today's...</dc:description>
+        <dc:publisher>Workman Publishing Company</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Barbara Ann Kipfer&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2020-04-09T05:15:36.054000+00:00" name="calibre:timestamp"/>
+        <meta content="14,000 Things to be Happy About" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

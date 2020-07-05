@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1904</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9aa6c12-9dab-41aa-a0ac-dae010517193</dc:identifier>
+        <dc:title>Pachinko</dc:title>
+        <dc:creator opf:file-as="Lee, Min Jin" opf:role="aut">Min Jin Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-07T00:00:00+00:00</dc:date>
+        <dc:description>&lt;strong&gt;A new tour de force from the bestselling author of &lt;i&gt;Free Food for Millionaires&lt;/i&gt;,&lt;i&gt; &lt;/i&gt;for readers of &lt;i&gt;A Fine Balance&lt;/i&gt; and &lt;i&gt;Cutting for Stone&lt;/i&gt;.&lt;/strong&gt;&lt;br&gt;Profoundly moving and gracefully told, PACHINKO follows one Korean family through the generations, beginning in early 1900s Korea with Sunja, the prized daughter of a poor yet proud family, whose unplanned pregnancy threatens to shame them. Betrayed by her wealthy lover, Sunja finds unexpected salvation when a young tubercular minister offers to marry her and bring her to Japan to start a new life. &lt;br&gt;So begins a sweeping saga of exceptional people in exile from a homeland they never knew and caught in the indifferent arc of history. In Japan, Sunja's family members endure harsh discrimination, catastrophes, and poverty, yet they also encounter great joy as they pursue their passions and rise to meet the challenges this new home presents. Through desperate struggles and hard-won triumphs, they are bound...</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Min Jin Lee&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2020-04-04T06:46:04.197000+00:00" name="calibre:timestamp"/>
+        <meta content="Pachinko" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

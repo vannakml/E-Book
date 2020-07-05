@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!--
+     hushpuppy_features
+     -->
+<hushpuppy_features>
+
+    <!--  all devices  -->
+    <device_type type="default" next_time_to_download_period="172800"
+        next_time_to_download_unit="seconds">
+        <pfm_config pfm="ATVPDKIKX0DER" pfm_readable="US - www.amazon.com - PROD"
+            hushpuppy_allowed="true">
+            <end_point type="companion_mapping_full_url"
+                url="https://syncdelivery.audible.com/hp/companionmappings?isAmazonAsinRequested=%b" />
+            <end_point type="companion_mapping_partial_url"
+                url="https://syncdelivery.audible.com/hp/companionmappings?isAmazonAsinRequested=%b&amp;fromDate=%d" />
+            <end_point type="price_url"
+                url="https://api.audible.com/1.0/catalog/products/%s?response_groups=%s" />
+            <end_point type="buy_url" url="https://api.audible.com/1.0/orders" />
+            <end_point type="tos_product_detail_url"
+                url="https://mobile.audible.com/TOS/productDetail.htm?" />
+            <end_point type="ktos_product_detail_url"
+                url="https://mobile.audible.com/TOS/productDetail.htm?" />
+            <end_point type="audible_listening_stat_api_url"
+                url="https://api.audible.com/1.0" />
+        </pfm_config>
+        <pfm_config pfm="A1F83G8C2ARO7P" pfm_readable="UK - www.amazon.co.uk - PROD"
+            hushpuppy_allowed="true">
+            <end_point type="companion_mapping_full_url"
+                url="https://syncdelivery.audible.co.uk/hp/companionmappings?isAmazonAsinRequested=%b" />
+            <end_point type="companion_mapping_partial_url"
+                url="https://syncdelivery.audible.co.uk/hp/companionmappings?isAmazonAsinRequested=%b&amp;fromDate=%d" />
+            <end_point type="price_url"
+                url="https://api.audible.co.uk/1.0/catalog/products/%s?response_groups=price" />
+            <end_point type="buy_url" url="https://api.audible.co.uk/1.0/orders" />
+            <end_point type="tos_product_detail_url"
+                url="https://mobile.audible.co.uk/TOS/productDetail.htm?" />
+            <end_point type="ktos_product_detail_url"
+                url="https://mobile.audible.co.uk/TOS/productDetail.htm?" />
+            <end_point type="audible_listening_stat_api_url"
+                url="https://api.audible.co.uk/1.0" />
+        </pfm_config>
+        <pfm_config pfm="A39IBJ37TRP1C6" pfm_readable="Australia - www.amazon.com.au - PROD"
+            hushpuppy_allowed="true">
+            <end_point type="companion_mapping_full_url"
+                url="https://syncdelivery.audible.com.au/hp/companionmappings?isAmazonAsinRequested=%b" />
+            <end_point type="companion_mapping_partial_url"
+                url="https://syncdelivery.audible.com.au/hp/companionmappings?isAmazonAsinRequested=%b&amp;fromDate=%d" />
+            <end_point type="price_url"
+                url="https://api.audible.com.au/1.0/catalog/products/%s?response_groups=price" />
+            <end_point type="buy_url" url="https://api.audible.com.au/1.0/orders" />
+            <end_point type="tos_product_detail_url"
+                url="https://mobile.audible.com.au/TOS/productDetail.htm" />
+            <end_point type="ktos_product_detail_url"
+                url="https://mobile.audible.com.au/TOS/productDetail.htm" />
+            <end_point type="audible_listening_stat_api_url"
+                url="https://api.audible.com.au/1.0" />
+        </pfm_config>
+        <pfm_config pfm="A1PA6795UKMFR9" pfm_readable="Germany - www.amazon.de - PROD"
+            hushpuppy_allowed="true">
+            <end_point type="companion_mapping_full_url"
+                url="https://syncdelivery.audible.de/hp/companionmappings?isAmazonAsinRequested=%b" />
+            <end_point type="companion_mapping_partial_url"
+                url="https://syncdelivery.audible.de/hp/companionmappings?isAmazonAsinRequested=%b&amp;fromDate=%d" />
+            <end_point type="price_url"
+                url="https://api.audible.de/1.0/catalog/products/%s?response_groups=price" />
+            <end_point type="buy_url" url="https://api.audible.de/1.0/orders" />
+            <end_point type="tos_product_detail_url"
+                url="https://mobile.audible.de/TOS/productDetail.htm?" />
+            <end_point type="ktos_product_detail_url"
+                url="https://mobile.audible.de/TOS/productDetail.htm?" />
+            <end_point type="audible_listening_stat_api_url"
+                url="https://api.audible.de/1.0" />
+        </pfm_config>
+    </device_type>
+
+    <!--  amazon devices -->
+    <device_type type="AmazonDevice" next_time_to_download_period="172800"
+        next_time_to_download_unit="seconds">
+        <pfm_config pfm="ATVPDKIKX0DER" pfm_readable="US - www.amazon.com - PROD"
+            hushpuppy_allowed="true">
+            <end_point type="companion_mapping_full_url"
+                url="https://syncdelivery.audible.com/hp/companionmappings?isAmazonAsinRequested=%b" />
+            <end_point type="companion_mapping_partial_url"
+                url="https://syncdelivery.audible.com/hp/companionmappings?isAmazonAsinRequested=%b&amp;fromDate=%d" />
+            <end_point type="price_url"
+                url="https://api.audible.com/1.0/catalog/products/%s?response_groups=%s" />
+            <end_point type="buy_url" url="https://api.audible.com/1.0/orders" />
+            <end_point type="tos_product_detail_url"
+                url="https://mobile.audible.com/TOS/productDetail.htm?" />
+            <end_point type="ktos_product_detail_url"
+                url="https://mobile.audible.com/TOS/productDetail.htm?" />
+            <end_point type="audible_listening_stat_api_url"
+                       url="https://api.audible.com/1.0" />
+        </pfm_config>
+        <pfm_config pfm="A1F83G8C2ARO7P" pfm_readable="UK - www.amazon.co.uk - PROD"
+            hushpuppy_allowed="true">
+            <end_point type="companion_mapping_full_url"
+                url="https://syncdelivery.audible.co.uk/hp/companionmappings?isAmazonAsinRequested=%b" />
+            <end_point type="companion_mapping_partial_url"
+                url="https://syncdelivery.audible.co.uk/hp/companionmappings?isAmazonAsinRequested=%b&amp;fromDate=%d" />
+            <end_point type="price_url"
+                url="https://api.audible.co.uk/1.0/catalog/products/%s?response_groups=price" />
+            <end_point type="buy_url" url="https://api.audible.co.uk/1.0/orders" />
+            <end_point type="tos_product_detail_url"
+                url="https://mobile.audible.co.uk/TOS/productDetail.htm?" />
+            <end_point type="ktos_product_detail_url"
+                url="https://mobile.audible.co.uk/TOS/productDetail.htm?" />
+            <end_point type="audible_listening_stat_api_url"
+                url="https://api.audible.co.uk/1.0" />
+        </pfm_config>
+        <pfm_config pfm="A39IBJ37TRP1C6" pfm_readable="Australia - www.amazon.com.au - PROD"
+            hushpuppy_allowed="true">
+            <end_point type="companion_mapping_full_url"
+                url="https://syncdelivery.audible.com.au/hp/companionmappings?isAmazonAsinRequested=%b" />
+            <end_point type="companion_mapping_partial_url"
+                url="https://syncdelivery.audible.com.au/hp/companionmappings?isAmazonAsinRequested=%b&amp;fromDate=%d" />
+            <end_point type="price_url"
+                url="https://api.audible.com.au/1.0/catalog/products/%s?response_groups=price" />
+            <end_point type="buy_url" url="https://api.audible.com.au/1.0/orders" />
+            <end_point type="tos_product_detail_url"
+                url="https://mobile.audible.com.au/TOS/productDetail.htm" />
+            <end_point type="ktos_product_detail_url"
+                url="https://mobile.audible.com.au/TOS/productDetail.htm" />
+            <end_point type="audible_listening_stat_api_url"
+                url="https://api.audible.com.au/1.0" />
+        </pfm_config>
+        <pfm_config pfm="A1PA6795UKMFR9" pfm_readable="Germany - www.amazon.de - PROD"
+            hushpuppy_allowed="true">
+            <end_point type="companion_mapping_full_url"
+                url="https://syncdelivery.audible.de/hp/companionmappings?isAmazonAsinRequested=%b" />
+            <end_point type="companion_mapping_partial_url"
+                url="https://syncdelivery.audible.de/hp/companionmappings?isAmazonAsinRequested=%b&amp;fromDate=%d" />
+            <end_point type="price_url"
+                url="https://api.audible.de/1.0/catalog/products/%s?response_groups=price" />
+            <end_point type="buy_url" url="https://api.audible.de/1.0/orders" />
+            <end_point type="tos_product_detail_url"
+                url="https://mobile.audible.de/TOS/productDetail.htm?" />
+            <end_point type="ktos_product_detail_url"
+                url="https://mobile.audible.de/TOS/productDetail.htm?" />
+            <end_point type="audible_listening_stat_api_url"
+                url="https://api.audible.de/1.0" />
+        </pfm_config>
+    </device_type>
+
+</hushpuppy_features>

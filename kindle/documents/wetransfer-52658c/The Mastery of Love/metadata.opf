@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1838</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cea4cd6c-c03b-4735-b300-7b484e180243</dc:identifier>
+        <dc:title>The Mastery of Love: A Practical Guide to the Art of Relationship</dc:title>
+        <dc:creator opf:file-as="Ruiz, Don Miguel &amp; Mills, Janet" opf:role="aut">Don Miguel Ruiz</dc:creator>
+        <dc:creator opf:file-as="Ruiz, Don Miguel &amp; Mills, Janet" opf:role="aut">Janet Mills</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-17T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In The Mastery of Love, Don Miguel Ruiz illuminates the fear-based beliefs and assumptions that undermine love and lead to suffering and drama in our relationships. Using insightful stories to bring his message to life, Ruiz shows us how to heal our emotional wounds, recover the freedom and joy that are our birthright, and restore the spirit of playfulness that is vital to loving relationships. **&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"In the tradition of Castaneda, Ruiz distills essential Toltec wisdom, expressing with clarity and impeccability what it means for men and women to live as peaceful warriors in the modern world."&lt;br&gt;-- Dan Millman, author of Way of the Peaceful Warrior &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Don Miguel Ruiz was born into a family of healers, and raised in rural Mexico by a curandera (healer) mother and a nagual (shaman) grandfather. The family anticipated that Miguel would embrace their centuries-old legacy of healing and teaching, and carry forward the esoteric Toltec knowledge. Instead, distracted by modern life, Miguel chose to attend medical school and become a surgeon. A near-death experience changed his life. Stunned by this experience, he began an intensive practice of self-inquiry. He devoted himself to the mastery of the ancient ancestral wisdom, studying earnestly with his mother, and completing an apprenticeship with a powerful shaman in the Mexican desert. In the tradition of the Toltecs, a nagual guides an individual to personal freedom. don Miguel is a nagual from the Eagle Knight lineage, and is dedicated to sharing his knowledge of the teachings of the ancient Toltecs. He is the author of The Four Agreements, The Mastery of Love, and The Four Agreements Companion Book. Website: www.MiguelRuiz.com &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Amber-Allen Publishing</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Janet Mills&quot;: &quot;&quot;, &quot;Don Miguel Ruiz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2020-03-26T01:18:19.902000+00:00" name="calibre:timestamp"/>
+        <meta content="Mastery of Love: A Practical Guide to the Art of Relationship, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
