@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2736</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5003484-ade2-4496-ae77-26c6222a122d</dc:identifier>
+        <dc:title>The Little Book of Self-Care for Leo</dc:title>
+        <dc:creator opf:file-as="Stellas, Constance" opf:role="aut">Constance Stellas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-09T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Everything you need to know about self-care—especially for Leo!&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Take Time for You, Leo! &lt;/p&gt;
+&lt;p&gt;It’s me time—powered by the zodiac! **&lt;em&gt; Welcome star-powered strength and cosmic relief into your life with The Little Book of Self-Care for Leo&lt;/em&gt;. &lt;/p&gt;
+&lt;p&gt;While Leo may enjoy being the center of attention, this book truly puts you first. Let the stars be your guide as you learn just how important astrology is to your self-care routine. Discover more about your sign and your ruling element, fire, and then find the perfect set of self-care ideas and activities for you. &lt;/p&gt;
+&lt;p&gt;From meditating with crystals to attending a music festival, you will find more than one hundred ways to heal your mind, body, and active spirit. It’s stellar self-care especially for you, Leo! **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Adams Media</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Astrology Self-Care</dc:subject>
+        <meta content="{&quot;Constance Stellas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2020-06-22T11:01:50.168000+00:00" name="calibre:timestamp"/>
+        <meta content="Little Book of Self-Care for Leo, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
